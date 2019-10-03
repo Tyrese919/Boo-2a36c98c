@@ -1,6 +1,6 @@
 <?php
 
-var_dump( "test" == "test"
-)
+var_dump("1" == "1");
+var_dump("1" == "2");
 
- ?>
+?>
